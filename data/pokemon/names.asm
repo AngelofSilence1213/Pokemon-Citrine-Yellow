@@ -135,7 +135,7 @@ MonsterNames::
 	db "Magikarp@@"
 	db "Missingno."
 	db "Missingno."
-	db "MUK@@@@@@@"
+	db "Muk@@@@@@@"
 	db "Missingno."
 	db "Kingler@@@"
 	db "Cloyster@@"
