@@ -1,21 +1,21 @@
 _MasterBallDescription::
-	text "The best BALL. It"
+	text "The best Ball. It"
 	next "never misses."
 	prompt
 
 _UltraBallDescription::
-	text "A BALL with a high"
+	text "A Ball with a high"
 	next "rate of success."
 	prompt
 
 _GreatBallDescription::
-	text "A BALL with a de-"
+	text "A Ball with a de-"
 	next "cent success rate."
 	prompt
 
 _PokeBallDescription::
 	text "An item for catch-"
-	next "ing #MON."
+	next "ing #mon."
 	prompt
 
 _TownMapDescription::
@@ -34,32 +34,32 @@ _ThunderStoneDescription::
 _WaterStoneDescription::
 _LeafStoneDescription::
 	text "Evolves certain"
-	next "kinds of #MON."
+	next "kinds of #mon."
 	prompt
 
 _AntidoteDescription::
 	text "Cures poisoned"
-	next "#MON."
+	next "#mon."
 	prompt
 
 _BurnHealDescription::
 	text "Heals burned"
-	next "#MON."
+	next "#mon."
 	prompt
 
 _IceHealDescription::
 	text "Defrosts frozen"
-	next "#MON."
+	next "#mon."
 	prompt
 
 _AwakeningDescription::
 	text "Awakens sleeping"
-	next "#MON."
+	next "#mon."
 	prompt
 
 _ParlyzHealDescription::
 	text "Heals paralyzed"
-	next "#MON."
+	next "#mon."
 	prompt
 
 _FullRestoreDescription::
@@ -69,21 +69,21 @@ _FullRestoreDescription::
 
 _MaxPotionDescription::
 	text "Fully restores"
-	next "#MON HP."
+	next "#mon HP."
 	prompt
 
 _HyperPotionDescription::
-	text "Restores #MON"
+	text "Restores #mon"
 	next "HP by 200."
 	prompt
 
 _SuperPotionDescription::
-	text "Restores #MON"
+	text "Restores #mon"
 	next "HP by 50."
 	prompt
 
 _PotionDescription::
-	text "Restores #MON"
+	text "Restores #mon"
 	next "HP by 20."
 	prompt
 
@@ -94,7 +94,7 @@ _EscapeRopeDescription::
 
 _RepelDescription::
 	text "Repels weak #-"
-	next "MON for 100 steps."
+	next "mon for 100 steps."
 	prompt
 
 _OldAmberDescription::
@@ -104,38 +104,38 @@ _OldAmberDescription::
 
 _HPUpDescription::
 	text "Raises the HP of"
-	next "one #MON."
+	next "one #mon."
 	prompt
 
 _ProteinDescription::
-	text "Raises ATTACK of"
-	next "one #MON."
+	text "Raises Attack of"
+	next "one #mon."
 	prompt
 
 _IronDescription::
-	text "Raises DEFENSE of"
-	next "one #MON."
+	text "Raises Defense of"
+	next "one #mon."
 	prompt
 
 _CarbosDescription::
-	text "Raises SPEED of"
-	next "one #MON."
+	text "Raises Speed of"
+	next "one #mon."
 	prompt
 
 _CalciumDescription::
-	text "Raises SPECIAL"
-	next "of one #MON."
+	text "Raises Special"
+	next "of one #mon."
 	prompt
 
 _RareCandyDescription::
 	text "Raises level of a"
-	next "#MON by one."
+	next "#mon by one."
 	prompt
 
 _DomeFossilDescription::
 _HelixFossilDescription::
 	text "A fossilized"
-	next "#MON shell."
+	next "#mon shell."
 	prompt
 
 _SecretKeyDescription::
@@ -144,17 +144,17 @@ _SecretKeyDescription::
 
 _BikeVoucherDescription::
 	text "Exchange for a new"
-	next "BICYCLE."
+	next "Bicycle."
 	prompt
 
 _XAccuracyDescription::
 	text "Raises accuracy."
-	next "(1 BTL)"
+	next "(1 Battle)"
 	prompt
 
 _CardKeyDescription::
 	text "Opens shutters in"
-	next "SILPH CO."
+	next "Silph Co."
 	prompt
 
 _NuggetDescription::
@@ -164,7 +164,7 @@ _NuggetDescription::
 
 _PokeDollDescription::
 	text "Use to escape from"
-	next "a wild #MON."
+	next "a wild #mon."
 	prompt
 
 _FullHealDescription::
@@ -174,77 +174,77 @@ _FullHealDescription::
 
 _ReviveDescription::
 	text "Restores a fainted"
-	next "#MON to 1/2 HP."
+	next "#mon to 1/2 HP."
 	prompt
 
 _MaxReviveDescription::
 	text "Fully restores a"
-	next "fainted #MON."
+	next "fainted #mon."
 	prompt
 
 _GuardSpecDescription::
 	text "Prevents stats"
-	next "reduction. (1 BTL)"
+	next "drops. (1 Battle)"
 	prompt
 
 _SuperRepelDescription::
 	text "Repels weak #-"
-	next "MON for 200 steps."
+	next "mon for 200 steps."
 	prompt
 
 _MaxRepelDescription::
 	text "Repels weak #-"
-	next "MON for 250 steps."
+	next "mon for 250 steps."
 	prompt
 
 _DireHitDescription::
 	text "Ups critical hit"
-	next "ratio. (1 BTL)"
+	next "ratio. (1 Battle)"
 	prompt
 
 _FreshWaterDescription::
-	text "Restores #MON"
+	text "Restores #mon"
 	next "HP by 50."
 	prompt
 
 _SodaPopDescription::
-	text "Restores #MON"
+	text "Restores #mon"
 	next "HP by 60."
 	prompt
 
 _LemonadeDescription::
-	text "Restores #MON"
+	text "Restores #mon"
 	next "HP by 80."
 	prompt
 
 _SSTicketDescription::
 	text "A ticket for the"
-	next "S.S.ANNE."
+	next "S.S.Anne."
 	prompt
 
 _GoldTeethDescription::
 	text "Gold dentures lost"
-	next "by the WARDEN."
+	next "by the Warden."
 	prompt
 
 _XAttackDescription::
-	text "Raises ATTACK."
-	next "(1 BTL)"
+	text "Raises Attack."
+	next "(1 Battle)"
 	prompt
 
 _XDefendDescription::
-	text "Raises DEFENSE."
-	next "(1 BTL)"
+	text "Raises Defense."
+	next "(1 Battle)"
 	prompt
 
 _XSpeedDescription::
-	text "Raises SPEED."
-	next "(1 BTL)"
+	text "Raises Speed."
+	next "(1 Battle)"
 	prompt
 
 _XSpecialDescription::
-	text "Raises SPECIAL."
-	next "(1 BTL)"
+	text "Raises Special."
+	next "(1 Battle)"
 	prompt
 
 _CoinCaseDescription::
@@ -254,7 +254,7 @@ _CoinCaseDescription::
 
 _OaksParcelDescription::
 	text "A parcel belonging"
-	next "to PROF.OAK."
+	next "to Prof.Oak."
 	prompt
 
 _ItemfinderDescription::
@@ -264,37 +264,37 @@ _ItemfinderDescription::
 
 _SilphScopeDescription::
 	text "A scope to see in-"
-	next "visible #MON."
+	next "visible #mon."
 	prompt
 
 _PokeFluteDescription::
 	text "Instantly awakens"
-	next "any #MON."
+	next "any #mon."
 	prompt
 
 _LiftKeyDescription::
 	text "Key to the lift in"
-	next "the ROCKET base."
+	next "the Rocket base."
 	prompt
 
 _ExpAllDescription::
-	text "Shares battle EXP."
+	text "Shares battle Exp."
 	next "points."
 	prompt
 
 _OldRodDescription::
 	text "Use by water to"
-	next "fish for #MON."
+	next "fish for #mon."
 	prompt
 
 _GoodRodDescription::
-	text "A good ROD for"
-	next "catching #MON."
+	text "A good Rod for"
+	next "catching #mon."
 	prompt
 
 _SuperRodDescription::
-	text "The best ROD for"
-	next "catching #MON."
+	text "The best Rod for"
+	next "catching #mon."
 	prompt
 
 _PPUpDescription::
@@ -319,7 +319,7 @@ _ElixerDescription::
 
 _MaxElixerDescription::
 	text "Fully restores the"
-	next "PP of one #MON."
+	next "PP of one #mon."
 	prompt
 
 _HM01Description::
@@ -359,7 +359,7 @@ _TM02Description::
 
 _TM03Description::
 	text "A dance that in-"
-	next "creases ATTACK."
+	next "creases Attack."
 	prompt
 
 _TM04Description::
@@ -399,7 +399,7 @@ _TM10Description::
 
 _TM11Description::
 	text "An attack that may"
-	next "lower SPEED."
+	next "lower Speed."
 	prompt
 
 _TM12Description::
@@ -443,7 +443,7 @@ _TM19Description::
 	prompt
 
 _TM20Description::
-	text "Raises ATTACK if"
+	text "Raises Attack if"
 	next "the user is hit."
 	prompt
 
@@ -489,7 +489,7 @@ _TM28Description::
 
 _TM29Description::
 	text "An attack that may"
-	next "lower SPECIAL."
+	next "lower Special."
 	prompt
 
 _TM30Description::
@@ -508,7 +508,7 @@ _TM32Description::
 	prompt
 
 _TM33Description::
-	text "Raises DEFENSE"
+	text "Raises Defense"
 	next "with a barrier."
 	prompt
 
@@ -519,7 +519,7 @@ _TM34Description::
 
 _TM35Description::
 	text "Randomly uses any"
-	next "#MON move."
+	next "#mon move."
 	prompt
 
 _TM36Description::
