@@ -179,13 +179,13 @@ SpecialEnterMap::
 	jp EnterMap
 
 ContinueText:
-	db "CONTINUE"
+	db "Continue"
 	next ""
 	; fallthrough
 
 NewGameText:
-	db   "NEW GAME"
-	next "OPTION@"
+	db   "New Game"
+	next "Option@"
 
 DisplayContinueGameInfo:
 	xor a
@@ -266,10 +266,10 @@ PrintPlayTime:
 	jp PrintNumber
 
 SaveScreenInfoText:
-	db   "PLAYER"
-	next "BADGES    "
-	next "#DEX    "
-	next "TIME@"
+	db   "Player"
+	next "Badges    "
+	next "#dex    "
+	next "Time@"
 
 DisplayOptionMenu:
 	callfar DisplayOptionMenu_
@@ -304,3 +304,4 @@ CheckForPlayerNameInSRAM:
 	ld [MBC1SRamBankingMode], a
 	scf
 	ret
+j
