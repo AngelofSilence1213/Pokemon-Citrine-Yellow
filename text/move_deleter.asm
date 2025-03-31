@@ -1,11 +1,11 @@
 _MoveDeleterGreetingText::
 	text "Want me to make a"
-	line "#MON forget a"
+	line "#mon forget a"
 	cont "move?"
 	done
 
 _MoveDeleterSaidYesText::
-	text "Which #MON"
+	text "Which #mon"
 	line "should forget a"
 	cont "move?"
 	prompt
@@ -35,7 +35,7 @@ _MoveDeleterByeText::
 	done
 
 _MoveDeleterOneMoveText::
-	text "That #MON"
+	text "That #mon"
 	line "has one move."
 	cont "Pick another?"
 	done
