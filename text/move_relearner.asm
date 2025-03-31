@@ -1,5 +1,5 @@
 _MoveRelearnerGreetingText::
-	text "I teach #MON"
+	text "I teach #mon"
 	line "to remember moves"
 	cont "they forgot."
 
@@ -8,7 +8,7 @@ _MoveRelearnerGreetingText::
 	done
 
 _MoveRelearnerSaidYesText::
-	text "Which #MON"
+	text "Which #mon"
 	line "should I tutor?"
 	prompt
 
@@ -26,13 +26,13 @@ _MoveRelearnerWhichMoveText::
 
 _MoveRelearnerByeText::
 	text "If any of your"
-	line "#MON need to"
+	line "#mon need to"
 	cont "remember a move,"
 	cont "come visit me!"
 	done
 
 _MoveRelearnerNoMovesText::
-	text "This #MON"
+	text "This #mon"
 	line "hasn't forgotten"
 	cont "any moves."
 	done
