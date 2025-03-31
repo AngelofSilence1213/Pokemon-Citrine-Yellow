@@ -304,4 +304,3 @@ CheckForPlayerNameInSRAM:
 	ld [MBC1SRamBankingMode], a
 	scf
 	ret
-j
